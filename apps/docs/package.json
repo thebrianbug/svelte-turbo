@@ -15,7 +15,7 @@
     "ui": "*"
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "latest",
+    "@sveltejs/adapter-netlify": "^2.0.8",
     "@sveltejs/kit": "latest",
     "eslint-config-custom": "*",
     "svelte": "^3.44.0",
